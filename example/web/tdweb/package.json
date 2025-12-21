@@ -71,7 +71,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.3",
     "broadcast-channel": "^2.1.12",
-    "localforage": "^1.7.3",
+    "localforage": "^1.10.0",
     "uuid": "^3.3.2"
   },
   "babel": {
